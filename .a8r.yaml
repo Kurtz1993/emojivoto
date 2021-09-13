@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: 8ea53dff-f5f0-506f-aa13-5f28885ee1f5
+    cluster_name: LuisHer
