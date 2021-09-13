@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: 423b36e3-5db1-5135-9d56-07806400302a
+    cluster_name: Arturo
